@@ -1,2 +1,1 @@
-# ks
-my webpage
+https://kashish0214.github.io/ks/
